@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h4>I'm a girl passionate about coding, languages and videogames. This is my <a href = "https://linktr.ee/alisamorpheus">linktree</a>, here you can find my contacts.</h4>
-<h3>If you have a job for me, don't hesitate to write me a mail! Have a nice day!</h3>
+<h3>I'm a girl passionate about coding, languages and videogames. This is my <a href = "https://linktr.ee/alisamorpheus">linktree</a>, here you can find my contacts.</h3>
+<h4>If you have a job for me, don't hesitate to write me a mail! Have a nice day!</h4>
 
 <!--
 **AlisaMorpheus/AlisaMorpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
