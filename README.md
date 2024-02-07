@@ -5,10 +5,10 @@
 
 <i>PS: If you want to have a look to projects I collaborate with look also here!</i>
 
-FabioFlo/ProjectWork Repo ( https://github.com/FabioFlo/ProjectWork )
+FabioFlo/ProjectWork Repo 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioFlo&repo=ProjectWork)](https://github.com/FabioFlo/ProjectWork)
-EbekSynthsei/Shape-Shifter Repo ( https://github.com/EbekSynthsei/Shape-Shifter )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EbekSynthsei&repo=Shape-Shifter)](https://github.com/FabioFlo/ProjectWork](https://github.com/EbekSynthsei/Shape-Shifter)
+EbekSynthsei/Shape-Shifter Repo 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EbekSynthsei&repo=Shape-Shifter)](https://github.com/EbekSynthsei/Shape-Shifter)
 
 
 
